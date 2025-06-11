@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Divy Gandhi</h1>
+<h3 align="center">A passionateFull Stack Developer from India</h3>
 
-<!--
-**divygandhi4978/divygandhi4978** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 🛠️ Languages and Tools:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript" />
+  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python" />
+  <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react" />
+  <img src="https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git" />
+</p>
+
+---
+
+### 📈 GitHub Stats:
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" alt="YOUR_USERNAME's GitHub stats" />
+</p>

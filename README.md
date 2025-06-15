@@ -34,18 +34,18 @@
     
 ## Top Contributed Repo🔝
 
-![](https://github-contributor-stats.vercel.app/api?username=pa45h&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=divygandhi4978&limit=5&theme=transparent&combine_all_yearly_contributions=true)
     
 
 ##  GitHub Stats📊
     
-![](https://github-readme-streak-stats.herokuapp.com?theme=transparent&user=pa45h)
+![](https://github-readme-streak-stats.herokuapp.com?theme=transparent&user=divygandhi4978)
     
 
-![](https://github-readme-stats.vercel.app/api?username=pa45h&theme=transparent)
+![](https://github-readme-stats.vercel.app/api?username=divygandhi4978&theme=transparent)
     
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pa45h&theme=transparent&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=divygandhi4978&theme=transparent&layout=compact)
     
 
 ## Socials🌐 

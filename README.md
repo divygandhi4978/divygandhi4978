@@ -49,9 +49,6 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=divygandhi4978&theme=transparent&layout=compact)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divygandhi4978&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
-
-
 ## Socials🌐 
 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/divygandhi4978?s=09) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://in.linkedin.com/in/divy-gandhi-9713b6284) [![LeetCode](https://img.shields.io/badge/LeetCode-%2320232a.svg?style=normal&logo=LeetCode&logoColor=%FFA116)](https://leetcode.com/u/divygandhi4978/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/divygandhi4978/#)

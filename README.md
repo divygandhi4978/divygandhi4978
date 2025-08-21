@@ -1,4 +1,4 @@
-<h1 align="center">Hi 🙋‍♂️, I'm Divy Gandhi</h1>
+<h1 align="center">Hi, I'm Divy Gandhi</h1>  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 <h3 align="center">A passionate Computer Engineering Student, Excited to dive into the world of technology, eager to learn, innovate, and contribute..</h3>
 

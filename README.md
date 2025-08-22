@@ -13,7 +13,7 @@
 <p align="center">
   <b style="background-color:green; color:black; padding:6px; font-size:16px;">
     ⚡ Fun Fact: I’m not just passionate about coding; I’m a quick learner who loves experimenting with new tech.<br><br>
-    <a href="https://planet-lifter-33b.notion.site/Technical-Stuff-242cd5d8cae480ff9a48e4a9c9b2c23c#244cd5d8cae4807ebe11d51bcc6fa732" target="_blank" style="text-decoration:none; font-size:40px; padding:25px; font-weight:bold; color:blue;">
+    <a href="https://planet-lifter-33b.notion.site/Technical-Stuff-242cd5d8cae480ff9a48e4a9c9b2c23c" target="_blank" style="text-decoration:none; font-size:40px; padding:25px; font-weight:bold; color:blue;">
       EXPLORE WHAT I’VE LEARNED.
     </a>
   </b>

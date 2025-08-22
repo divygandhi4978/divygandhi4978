@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Divy Gandhi</h1>
-
 <h3 align="center">A passionate Computer Engineering Student, Excited to dive into the world of technology, eager to learn, innovate, and contribute..</h3>
+
 
 - 🌱 I’m currently learning **C, Graphics, Git\GitHub, DSA and Web3...**
 
@@ -10,7 +10,14 @@
 
 - <a  href="https://personal-pf-alpha.vercel.app/"> Personal Portfolio </a>
 
-- ⚡ Fun fact **I'm not just passionate about coding; I'm also a quick learner.**
+<p align="center">
+  <b style="background-color:lightgreen; color:black; padding:6px; font-size:16px;">
+    ⚡ Fun Fact: I’m not just passionate about coding; I’m a quick learner who loves experimenting with new tech.<br><br>
+    <a href="https://planet-lifter-33b.notion.site/Technical-Stuff-242cd5d8cae480ff9a48e4a9c9b2c23c#244cd5d8cae4807ebe11d51bcc6fa732" target="_blank" style="text-decoration:none; font-size:20px; padding:25px; font-weight:bold; color:blue;">
+      EXPLORE WHAT I’VE LEARNED.
+    </a>
+  </b>
+</p>
 
 ## Tech Stack💻 
 

@@ -95,9 +95,6 @@ Git • Docker • Excel • Notion
 🔗 Portfolio:  
 https://personal-pf-alpha.vercel.app/
 
-📊 Technical & System Notes:  
-https://planet-lifter-33b.notion.site/Technical-Stuff-242cd5d8cae480ff9a48e4a9c9b2c23c
-
 ---
 
 ## Connect With Me

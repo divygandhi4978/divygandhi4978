@@ -1,63 +1,115 @@
 <h1 align="center">Hi, I'm Divy Gandhi</h1>
-<h3 align="center">A passionate Computer Engineering Student, Excited to dive into the world of technology, eager to learn, innovate, and contribute..</h3>
 
+<h3 align="center">
+Engineering Student | Finance & Analytics Learner | Building Financial Systems & Decision Tools
+</h3>
 
-- 🌱 I’m currently learning **C, Graphics, Git\GitHub, DSA and Web3...**
+---
 
-- 💬 Ask me about **Programming languages, Graphic designing, Content writing, Web Development, Strategy Planning, etc.**
+## About Me
 
-- 📫 How to reach me **divygandhi4978@gmail.com**
+I work at the intersection of **finance, analytics, and system development**, building structured tools that improve financial visibility and decision-making.
 
-- <a  href="https://personal-pf-alpha.vercel.app/"> Personal Portfolio </a>
+Currently:
 
-<p align="center">
-  <b style="background-color:green; color:black; padding:6px; font-size:16px;">
-    ⚡ Fun Fact: I’m not just passionate about coding; I’m a quick learner who loves experimenting with new tech.<br><br>
-    <a href="https://planet-lifter-33b.notion.site/Technical-Stuff-242cd5d8cae480ff9a48e4a9c9b2c23c" target="_blank" style="text-decoration:none; font-size:40px; padding:25px; font-weight:bold; color:blue;">
-      EXPLORE WHAT I’VE LEARNED.
-    </a>
-  </b>
-</p>
+- Technical Lead at **Entrepreneurship Cell, GEC Gandhinagar**
+- Treasurer (Finance Lead) for **Hack The Spring '26**
+- Managing **₹2.5L+ in event funds** across sponsors, vendors, and operations
+- Preparing for **MBA in Finance**
+- Building **investment dashboards and portfolio analytics systems**
 
-## Tech Stack💻 
+My focus is on understanding how **data, financial logic, and system design** come together to support real-world decisions.
 
-#### Languages
+---
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+## Core Areas of Work
 
-#### Databases & ORM
+- Financial Analysis & Budget Tracking  
+- Investment & Portfolio Analytics  
+- Power BI Dashboards  
+- Financial Data Workflows  
+- Full-Stack System Development  
+- Structured Problem Solving  
 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+---
 
-#### Hosting
+## Featured Projects
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
+### Investment Portfolio Dashboard  
+Centralized multi-asset portfolio dashboard integrating market and NAV data to track allocation, performance, and financial visibility.
 
-#### Design
+### Finsight — Portfolio Analytics Framework  
+A structured financial analytics system designed to monitor drawdowns, benchmark comparisons, and allocation changes.
 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+### VaproShine Operations Platform  
+Developed booking and internal dashboard systems supporting operational tracking, customer flow, and revenue monitoring.
 
-#### Others
+### Power BI Business Dashboard  
+Built multi-page dashboards tracking revenue, conversion, and operational KPIs for service-based workflows.
 
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-    
-## Top Contributed Repo🔝
+---
+
+## Technical Stack
+
+### Languages  
+C • JavaScript • Python • SQL • HTML • CSS  
+
+### Data & Analytics  
+Pandas • NumPy • Matplotlib • Power BI • Streamlit  
+
+### Backend & APIs  
+Node.js • Express • FastAPI  
+
+### Databases  
+MySQL • MongoDB • PostgreSQL  
+
+### Tools  
+Git • Docker • Excel • Notion  
+
+---
+
+## Financial & Analytical Focus
+
+- Budget Planning & Expense Tracking  
+- Vendor Payment Management  
+- Financial Reconciliation  
+- Portfolio Performance Monitoring  
+- Investment Workflow Systems  
+
+---
+
+## GitHub Activity
 
 ![](https://github-contributor-stats.vercel.app/api?username=divygandhi4978&limit=5&theme=transparent&combine_all_yearly_contributions=true)
-    
 
-##  GitHub Stats📊
-    
 ![](https://github-readme-streak-stats.herokuapp.com?theme=transparent&user=divygandhi4978)
-    
 
 ![](https://github-readme-stats.vercel.app/api?username=divygandhi4978&theme=transparent)
-    
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=divygandhi4978&theme=transparent&layout=compact)
 
-## Socials🌐 
+---
 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/divygandhi4978?s=09) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://in.linkedin.com/in/divy-gandhi-9713b6284) [![LeetCode](https://img.shields.io/badge/LeetCode-%2320232a.svg?style=normal&logo=LeetCode&logoColor=%FFA116)](https://leetcode.com/u/divygandhi4978/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/divygandhi4978/#)
+## Portfolio & Research
 
-    
+🔗 Portfolio:  
+https://personal-pf-alpha.vercel.app/
+
+📊 Technical & System Notes:  
+https://planet-lifter-33b.notion.site/Technical-Stuff-242cd5d8cae480ff9a48e4a9c9b2c23c
+
+---
+
+## Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://in.linkedin.com/in/divy-gandhi-9713b6284)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-%2320232a.svg?logo=LeetCode&logoColor=%FFA116)](https://leetcode.com/u/divygandhi4978/)
+
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/divygandhi4978)
+
+---
+
+## Current Direction
+
+Learning how **financial thinking + system design + analytics** combine to support **investment and operational decision-making**, with long-term interest in **finance, analytics, and business strategy**.

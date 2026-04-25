@@ -54,7 +54,7 @@ Centralized multi-asset portfolio monitor.
 
 Analytical deep-dives into corporate strategy and industry structure.
 
-[![CAMS — Market Structure](https://img.shields.io/badge/CAMS_Market_Structure-Research-562e66?style=for-the-badge&logo=github)](/cases/cams)
+[![CAMS — Market Structure](https://img.shields.io/badge/CAMS_Market_Structure-Research-562e66?style=for-the-badge&logo=github)](https://withdivy.vercel.app/cases/cams)
 
 [![Siemens India — Strategy Pivot](https://img.shields.io/badge/Siemens_Strategy-Research-562e66?style=for-the-badge&logo=github)](https://github.com/divygandhi4978/research/blob/main/companies/siemens-india.md)
 
@@ -95,3 +95,28 @@ Analytical deep-dives into corporate strategy and industry structure.
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/divygandhi4978)
 
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x)](https://x.com/divygandhi4978)
+
+---
+
+## 08 // BUILDING CARVION
+
+### 🚗 Carvion — Automotive Care & Vehicle Lifecycle Brand
+
+Conceptualizing **Carvion**, a structured automotive services brand focused on standardizing fragmented vehicle care workflows into disciplined, technology-enabled operations.
+
+**Brand Scope:**
+
+- **Carvion Steam** — Steam-based vehicle cleaning  
+- **Carvion Care** — Preventive maintenance plans  
+- **Carvion Studio** — Detailing & restoration services  
+- **Carvion Shield** — Paint protection & surface protection  
+- **Carvion Select** — Certified pre-owned vehicle resale  
+
+**Current Focus:**
+
+- Brand architecture & service structure design  
+- Operational workflow planning  
+- Unit economics and service model validation  
+- Technology stack exploration for booking and service management  
+
+---
